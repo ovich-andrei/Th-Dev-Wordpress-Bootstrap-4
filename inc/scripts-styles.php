@@ -12,9 +12,6 @@ function wp_thdev_scripts() {
     wp_enqueue_style( 'thema', get_template_directory_uri() . '/assets/css/thema.css', array(),  'all' );
     wp_enqueue_style( 'support', get_template_directory_uri() . '/assets/css/support.css', array(),  'all' );
 
-    // Setting
-    wp_enqueue_style( 'qtags-buttons', get_template_directory_uri() . '/plugins/admin-menu-code/qtags-buttons.css', array(),  'all' );
-
 
     wp_deregister_script( 'jquery' );
     wp_register_script( 'jquery', get_template_directory_uri() . '/assets/js/jquery.min.js', array(), 'v3.1.1',true );

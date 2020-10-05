@@ -9,7 +9,7 @@
 
             <!-- footer -->
             <footer class="footer bg-footer mt-auto py-3 container-fluid bg-dark" role="contentinfo">
-			    <?php get_template_part('template-parts/footer-widgets');; ?>
+                <?php get_template_part('template-parts/footer-widgets');; ?>
                 <div class="container  d-flex justify-content-between">
                     <!-- copyright -->
                     <div class="copyright text-white m-0">

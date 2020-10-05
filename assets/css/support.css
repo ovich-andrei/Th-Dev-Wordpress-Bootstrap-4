@@ -1,5 +1,5 @@
 li {
-    list-style-type: none;
+    list-style-type: disc !important;
 }
 .hentry.card .card-body {
     padding: 1.5rem !important;
