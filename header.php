@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!doctype html>
 <html <?php language_attributes(); ?> class="no-js h-100">
 <head>
